@@ -8,3 +8,5 @@ propose is to assist in detecting caries bone and calculus within a few seconds.
 
 ![alt text](https://github.com/izraelov/AIDentist-Teeth-Decoader/blob/master/AIDentist_Poster.jpg)
 
+![alt text](https://github.com/izraelov/AIDentist-Teeth-Decoader/blob/master/Screenshot%20(7).png?raw=true)
+
