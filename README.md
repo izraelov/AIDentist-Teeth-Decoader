@@ -1,4 +1,4 @@
-# AIDentist-teeth-decoader-
+# AIDentist teeth decoader
 
 we planned a smart system which is trained by a neural network(R/CNN),
 to assist dentists in making medical decision. 
